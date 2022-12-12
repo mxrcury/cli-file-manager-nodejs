@@ -25,3 +25,6 @@ export const OPTIONS = {
 
 export const DIRECTORY = 'directory'
 export const FILE = 'file'
+
+export const INVALID_INPUT = "Invalid input\n"
+export const OPERATION_FAILED = 'Operation failed\n'
